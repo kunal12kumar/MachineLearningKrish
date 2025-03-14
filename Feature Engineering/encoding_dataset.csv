@@ -1,0 +1,101 @@
+Customer_ID,Customer_Gender,Payment_Method,Education_Level,Customer_Loyalty,Purchase_Amount
+C5374,Other,Debit Card,Bachelor’s,Silver,3573.85
+C3280,Male,Cash,PhD,Bronze,4279.67
+C3380,Female,Debit Card,High School,Silver,904.41
+C4447,Female,UPI,Master’s,Silver,824.0
+C2170,Female,Debit Card,Master’s,Gold,310.38
+C1174,Other,UPI,Master’s,Silver,3668.02
+C5607,Other,UPI,Bachelor’s,Gold,3112.43
+C5352,Male,Cash,PhD,Bronze,1478.35
+C9108,Other,Cash,PhD,Silver,2164.13
+C8760,Male,Cash,PhD,Bronze,1745.86
+C7362,Male,Credit Card,High School,Bronze,1051.47
+C4762,Male,Credit Card,High School,Bronze,840.77
+C7347,Male,Debit Card,Master’s,Silver,4542.16
+C5522,Male,Credit Card,High School,Bronze,3305.23
+C4935,Other,Cash,Bachelor’s,Platinum,1846.98
+C2123,Male,UPI,Bachelor’s,Gold,300.27
+C4462,Other,Cash,Master’s,Gold,3720.01
+C4988,Other,UPI,High School,Platinum,4483.55
+C4587,Female,Credit Card,PhD,Silver,3629.68
+C3096,Female,Cash,Master’s,Bronze,4098.77
+C3900,Female,Credit Card,Bachelor’s,Platinum,1248.05
+C5571,Male,UPI,Bachelor’s,Platinum,4021.48
+C9657,Other,Credit Card,PhD,Platinum,4226.16
+C7492,Female,Credit Card,Bachelor’s,Bronze,3910.53
+C4857,Female,Debit Card,Master’s,Bronze,4024.62
+C9067,Female,UPI,Bachelor’s,Gold,4780.21
+C1225,Male,Debit Card,Bachelor’s,Gold,3507.49
+C9054,Female,Cash,Bachelor’s,Bronze,2674.61
+C7442,Female,Debit Card,PhD,Silver,4403.13
+C4847,Other,Credit Card,PhD,Bronze,4914.1
+C7226,Female,UPI,PhD,Silver,1754.0
+C4677,Other,Cash,High School,Silver,3556.65
+C2925,Female,Cash,Master’s,Platinum,2199.14
+C3404,Female,Credit Card,PhD,Silver,3790.65
+C5123,Male,Credit Card,Bachelor’s,Bronze,3584.36
+C1851,Female,Credit Card,Bachelor’s,Gold,1609.54
+C4266,Female,Cash,High School,Bronze,2382.53
+C4145,Other,Credit Card,Bachelor’s,Gold,361.71
+C1188,Female,UPI,Bachelor’s,Bronze,1716.1
+C7150,Other,Credit Card,PhD,Platinum,945.99
+C1361,Other,Cash,Bachelor’s,Bronze,3805.57
+C7185,Other,UPI,PhD,Silver,3856.23
+C4402,Other,UPI,High School,Platinum,1831.15
+C6767,Other,Cash,High School,Silver,798.07
+C9382,Female,Credit Card,High School,Gold,1773.94
+C1995,Other,Cash,Bachelor’s,Bronze,4233.4
+C6643,Female,Cash,PhD,Platinum,4870.42
+C1190,Male,Debit Card,Bachelor’s,Silver,1867.28
+C9663,Other,Cash,Master’s,Silver,3971.94
+C6711,Male,UPI,Master’s,Silver,4791.99
+C6972,Other,UPI,High School,Bronze,848.32
+C9573,Male,Cash,PhD,Platinum,1905.83
+C1598,Female,Credit Card,PhD,Gold,107.36
+C7025,Other,UPI,Bachelor’s,Platinum,960.11
+C7646,Other,UPI,Bachelor’s,Platinum,607.82
+C9657,Female,UPI,Master’s,Silver,4264.24
+C6549,Female,UPI,PhD,Bronze,175.47
+C6487,Male,Credit Card,Bachelor’s,Bronze,1013.48
+C5859,Female,Debit Card,Master’s,Platinum,3976.48
+C4048,Other,UPI,Bachelor’s,Bronze,551.32
+C1064,Female,Cash,Bachelor’s,Bronze,746.74
+C2419,Male,Credit Card,High School,Bronze,3636.66
+C4534,Female,UPI,Bachelor’s,Silver,4039.92
+C7607,Female,Debit Card,Master’s,Platinum,4355.19
+C5077,Male,Debit Card,PhD,Gold,4147.22
+C2807,Male,UPI,Bachelor’s,Silver,1775.07
+C9088,Male,Cash,Master’s,Gold,445.2
+C5047,Female,Cash,High School,Platinum,2594.83
+C2679,Other,Credit Card,High School,Platinum,391.56
+C2070,Female,Credit Card,Bachelor’s,Platinum,2585.95
+C9179,Female,Credit Card,Master’s,Gold,3301.89
+C1716,Male,Debit Card,Master’s,Silver,2454.54
+C7848,Female,Cash,High School,Bronze,3043.7
+C8154,Male,UPI,PhD,Platinum,976.94
+C8278,Other,Credit Card,Bachelor’s,Silver,2796.3
+C5311,Other,UPI,PhD,Silver,1592.21
+C6850,Male,Credit Card,PhD,Silver,4792.12
+C5944,Other,Cash,Bachelor’s,Bronze,3090.7
+C7665,Other,UPI,Master’s,Silver,4372.01
+C6421,Female,UPI,Master’s,Silver,4363.99
+C7230,Other,UPI,High School,Gold,2437.12
+C3422,Male,Cash,High School,Platinum,709.75
+C7821,Male,Credit Card,High School,Gold,3123.97
+C5520,Other,UPI,Bachelor’s,Platinum,3048.7
+C3171,Female,Debit Card,Master’s,Gold,4286.7
+C6779,Other,Cash,Bachelor’s,Silver,1442.29
+C5638,Other,Credit Card,High School,Gold,2597.85
+C4705,Male,Cash,Master’s,Bronze,865.52
+C9777,Female,Debit Card,PhD,Gold,3614.48
+C3637,Other,UPI,High School,Platinum,2607.47
+C1661,Male,UPI,High School,Platinum,3788.55
+C2794,Male,Credit Card,High School,Gold,2522.46
+C2015,Other,UPI,Master’s,Silver,1675.09
+C3192,Male,Cash,Master’s,Silver,4997.99
+C1848,Female,Debit Card,Master’s,Bronze,4870.98
+C2622,Male,Cash,Bachelor’s,Bronze,806.45
+C2049,Female,Debit Card,PhD,Gold,202.34
+C2827,Male,UPI,PhD,Silver,3978.84
+C8906,Male,Debit Card,PhD,Gold,2336.37
+C6551,Male,Credit Card,High School,Gold,841.91
